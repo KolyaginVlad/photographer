@@ -1,0 +1,1 @@
+web: ./build/install/ru.photographer.photographer/bin/ru.photographer.photographer
